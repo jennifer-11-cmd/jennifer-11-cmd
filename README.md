@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jennifer-11-cmd
+- 👋 Hi, I’m codeSlayer
 - 👀 I’m interested in programming and about tech.
 - 🌱  I'm a front-end developer.
 - 💞️  I’m currently learning java.
