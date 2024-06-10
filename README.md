@@ -1,7 +1,7 @@
 - 👋 Hi, I’m codeSlayer
 - 👀 I’m interested in programming and about tech.
-- 🌱  I'm a front-end developer.
-- 💞️  I’m currently learning java.
+- 🌱  I'm a fullstack developer.
+- 💞️  I’m currently learning java and kotlin.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
